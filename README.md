@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sirben181
 - 👀 I’m into in coding,and now this is my life
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on any js project
+- 🌱 I’m a front end developer, css, react and vanillajs are my thing
 - 📫 How to reach me through email bensonkamauben@gmail.com
 - 
 
