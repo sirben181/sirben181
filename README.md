@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sirben181
 - 👀 I’m into in coding,and now this is my life
-- 🌱 I’m a front end developer, css, react and vanillajs are my thing
+- 🌱 I’m a software developer in HTML,CSS,JAVASCRIPT,REACT,EXPRESS,NODEJS
+- I have worked with MongoDB and Firebase
 - 📫 How to reach me through email bensonkamauben@gmail.com
 - 
 
